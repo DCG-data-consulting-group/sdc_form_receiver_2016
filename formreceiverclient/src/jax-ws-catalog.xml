@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/Matthew/Documents/git_repos/sdc_form_receiver_2016/formreceiverclient/src/main/resources/sdc-schema-package/wsdl/rfd/RFDFormReceiver.wsdl" uri="wsdl/RFDFormReceiver.wsdl"/>
+    <system systemId="file:/C:/Users/Matthew/Documents/git_repos/sdc_form_receiver_2016/formreceiverclient/src/main/resources/sdc-schema-package/schema/rfd/RFD.xsd" uri="../schema/rfd/RFD.xsd"/>
+</catalog>

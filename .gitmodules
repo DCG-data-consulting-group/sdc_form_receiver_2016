@@ -1,0 +1,3 @@
+[submodule "formreceiverclient/src/main/resources/sdc-schema-package"]
+	path = formreceiverclient/src/main/resources/sdc-schema-package
+	url = https://github.com/esacinc/sdc-schema-package
